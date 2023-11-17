@@ -2,7 +2,7 @@
 - 👀 I’m interested in FULLSTACK DEVELOPMENT
 - 🌱 I’m currently learning CSS, JAVASCRIFT,HTML AND C
 - 📫 How to reach me EMAIL: pranjalpranjal412@gmail.com
-hi Karan 
+
 - 
 
 <!---
